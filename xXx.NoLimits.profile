@@ -224,7 +224,7 @@ GoogleDialer1 = 1
 
 #--< XXX.MENU.OPTIONS.MENU - MISCELLANEOUSOPTIONS >--< Google Dialer - OOS Dialer removed >
 #    improves your calling experience and gain control over calls with features like spam protection, caller ID and call blocking
-GoogleDialer2 = 1
+GoogleDialer2 = 0
 
 #--< XXX.MENU.OPTIONS.MENU - MISCELLANEOUSOPTIONS >--< Google Camera >
 #    Modded version with HDR+ and Slowmotion working
