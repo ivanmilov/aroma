@@ -125,7 +125,7 @@ LawnchairLaucher = 0
 
 #--< XXX.MENU.OPTIONS.MENU - SOUNDMODS >--< ViPER4AndroidFX >
 #    ViPER4AndroidFX thanks to Ahrion, Zackptg5, ViPER520, ZhuHang
-Viper4Android = 1
+Viper4Android = 0
 
 #--< XXX.MENU.OPTIONS.MENU - SOUNDMODS >--< DolbyAtmos >
 #    Legacy Version of Dolby Atmos thanks to guitardedhero, Ahrion and Zackptg5
@@ -157,11 +157,11 @@ XposedUninstall = 0
 
 #--< XXX.MENU.OPTIONS.MENU - EMOJIS >--< Oneplus Stock Emojis >
 #    Keep all System Apps and Services
-OneplusStockEmojis = 1
+OneplusStockEmojis = 0
 
 #--< XXX.MENU.OPTIONS.MENU - EMOJIS >--< Android O Emojis >
 #    thanks to XDA Recognized Contributor linuxct
-AndroidOEmojis = 0
+AndroidOEmojis = 1
 
 #--< XXX.MENU.OPTIONS.MENU - EMOJIS >--< iOS Emojis >
 #    iOS 12.1 Emojis thanks to @RickyBush
@@ -181,15 +181,15 @@ SamsungEmojis = 0
 
 #--< XXX.MENU.OPTIONS.MENU - SUBSTRATUM >--< Substratum Theme Engine >
 #    Substratum is a theme engine. You can download different theme modules which helps you to theme apps, taskbar items etc.
-SubstratumThemeEngine = 1
+SubstratumThemeEngine = 0
 
 #--< XXX.MENU.OPTIONS.MENU - SUBSTRATUM >--< Ozone Module >
 #    Provides you with different actionbar + accent combinations, QS backgrounds etc.
-OzoneModule = 1
+OzoneModule = 0
 
 #--< XXX.MENU.OPTIONS.MENU - SUBSTRATUM >--< K-Klock Module >
 #    Provides plenty of options to modify the taskbar clock like center it or apply colors etc.
-K-KlockModule = 1
+K-KlockModule = 0
 
 
 
@@ -220,11 +220,11 @@ YouTubeiYTBPmodDark = 1
 
 #--< XXX.MENU.OPTIONS.MENU - MISCELLANEOUSOPTIONS >--< Google Dialer - OOS Dialer remains >
 #    Google Dialer experience but several features are not working when combined with OOS Dialer. But native call recording works
-GoogleDialer1 = 0
+GoogleDialer1 = 1
 
 #--< XXX.MENU.OPTIONS.MENU - MISCELLANEOUSOPTIONS >--< Google Dialer - OOS Dialer removed >
 #    improves your calling experience and gain control over calls with features like spam protection, caller ID and call blocking
-GoogleDialer2 = 0
+GoogleDialer2 = 1
 
 #--< XXX.MENU.OPTIONS.MENU - MISCELLANEOUSOPTIONS >--< Google Camera >
 #    Modded version with HDR+ and Slowmotion working
@@ -232,7 +232,7 @@ GoogleCamera = 1
 
 #--< XXX.MENU.OPTIONS.MENU - MISCELLANEOUSOPTIONS >--< Google Gmail for Exchange >
 #    This will extend Gmail so you can connect to an Exchange Account
-GoogleGmailforExchange = 1
+GoogleGmailforExchange = 0
 
 
 #--< XXX.MENU.OPTIONS.MENU - MISCELLANEOUSOPTIONS >--< Screen Timeout Tile >
@@ -336,11 +336,11 @@ IndividualDebloatSelection = 1
 		
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< AndroidPay >
 		#    
-		AndroidPay = 1
+		AndroidPay = 0
 		
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< GooglePay >
 		#    
-		GooglePay = 1
+		GooglePay = 0
 				
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Google ARCore >
 		#    
@@ -348,11 +348,11 @@ IndividualDebloatSelection = 1
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< CalendarGoogle >
 		#    
-		CalendarGoogle = 1
+		CalendarGoogle = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Drive >
 		#    
-		Drive = 1
+		Drive = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Gboard - Google Keyboard >
 		#    Make sure you have any keyboard installed. Otherwise you will end up with NO keyboard available
@@ -360,7 +360,7 @@ IndividualDebloatSelection = 1
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Gmail2 >
 		#    
-		Gmail2 = 1
+		Gmail2 = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Hangouts >
 		#    
@@ -372,7 +372,7 @@ IndividualDebloatSelection = 1
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Maps >
 		#    
-		Maps = 1
+		Maps = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Music2 >
 		#    
@@ -408,11 +408,11 @@ IndividualDebloatSelection = 1
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Photos >
 		#    
-		Photos = 1
+		Photos = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< SoundRecorder >
 		#    
-		SoundRecorder = 1
+		SoundRecorder = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< SwiftKey >
 		#    
@@ -428,15 +428,15 @@ IndividualDebloatSelection = 1
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Videos >
 		#    
-		Videos = 1
+		Videos = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< Weather >
 		#    
-		Weather = 1
+		Weather = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - LIGHTDEBLOATING-USERAPPS >--< YouTube >
 		#    
-		YouTube = 1
+		YouTube = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - EXTREMEDEBLOATING-SYSTEMSERVICES >--< BasicDreams >
 		#    
@@ -460,7 +460,7 @@ IndividualDebloatSelection = 1
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - EXTREMEDEBLOATING-SYSTEMSERVICES >--< Duo >
 		#    
-		Duo = 1
+		Duo = 0
 
 		#--< XXX.MENU.DEBLOAT.OPTIONS - EXTREMEDEBLOATING-SYSTEMSERVICES >--< EasterEgg >
 		#    
@@ -631,7 +631,7 @@ IndividualTweaksSelections = 1
 
 	#--< XXX.MENU.BUILD.PROP - BUILD.PROPTWEAKSELECTIONS >--< Enables 270 Degree Rotation >
 	#    
-	Enables270DegreeRotation = 1
+	Enables270DegreeRotation = 0
 
 	#--< XXX.MENU.BUILD.PROP - BUILD.PROPTWEAKSELECTIONS >--< No wakeup by hitting volume rocker  >
 	#    
@@ -643,7 +643,7 @@ IndividualTweaksSelections = 1
 
 	#--< XXX.MENU.BUILD.PROP - BUILD.PROPTWEAKSELECTIONS >--< Disable persistant USB Notifications >
 	#    
-	DisablepersistantUSB = 1
+	DisablepersistantUSB = 0
 
 	#--< XXX.MENU.BUILD.PROP - BUILD.PROPTWEAKSELECTIONS >--< MMS APN retry timer set to 2 sec >
 	#    
